@@ -1,0 +1,1 @@
+I am running Maya 2019 on Mac, the scene is saved under the scenes folder in the project. 
